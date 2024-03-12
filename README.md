@@ -1,3 +1,7 @@
+This is test code commit to check the CI/CD Pipeline that triggers automated jobs and save repositoty,build image, and deploy our sample browser
+
+
+
 # Spring Boot Shopping Cart Web App
 
 ## About
